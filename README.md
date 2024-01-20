@@ -1,7 +1,17 @@
 ![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
 <h1 align="center">Hi 👋, I'm Srestha Mukherjee</h1>
 <h3 align="center">A Full Stack developer with a passion for transforming data into valuable insights. Welcome to my GitHub profile, where you'll find a collection of my data-driven projects and explorations.</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+
+- 🔭 I’m currently working on **Python**
+
+- 🌱 I’m currently learning **AI, Cloud Computing**
+
+- 👯 I’m looking to collaborate on **JWoC 2024**
+
+- 📫 How to reach me **srestha.2002@gmail.com**
+
+- ⚡ Fun fact **I love to play games.**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -18,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sresthamukherjee&show_icons=true&locale=en&layout=compact" alt="sresthamukherjee" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sresthamukherjee" alt="sresthamukherjee" /></a> </p>
